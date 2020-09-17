@@ -1,4 +1,8 @@
-# Rollbar for Magento 2 [![Build Status](https://travis-ci.org/rollbar/rollbar-php-magento2.svg?branch=master)](https://travis-ci.org/rollbar/rollbar-php-magento2)
+This repository just merges the outstading PRs for rollbar/rollbar-php-magento2
+
+---
+
+# Rollbar for Magento 2 
 
 Rollbar error monitoring integration for Magento projects.
 
